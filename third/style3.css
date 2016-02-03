@@ -17,11 +17,10 @@ html, body {
 	position: relative;
 	list-style: none;
 	box-sizing : border-box;
-	overflow: hidden;
 }
 .top p {
 	font-size: 20px;
-	
+	overflow: hidden;
 	padding-top: 5%;
 	padding-left: 10%;
 	padding-right:10%;
@@ -33,7 +32,6 @@ html, body {
 	height: 10%;
 	background-color: #000;
 	list-style: none;
-	overflow: hidden;
 
 }
 
@@ -44,7 +42,6 @@ html, body {
    margin-left: 10%;
    color:white;
    background-color: blue; 
-   float: left;
 
 }
 
@@ -54,8 +51,6 @@ html, body {
 	height: 60%;
 	margin: 2% auto; // place the element in the center
 	position: relative;
-	overflow: hidden;
-	overflow: scroll;
 }
 
 .image {
